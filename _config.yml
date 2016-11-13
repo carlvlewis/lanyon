@@ -4,11 +4,11 @@
 permalink:           pretty
 
 # Setup
-title:               Carl V. Lewis
+title:               'Carl V. Lewis'
 tagline:             'Data Visualization, Journalism, Digital Humanities'
 description:         'Thoughts on the intersection of HCI, data visualization and digital news ecosystems.'
-url:                 http://carlvlewis.github.io/
-baseurl:             ''
+url:                 'http://carlvlewis.github.io/'
+baseurl:             'http://carlvlewis.github.io/'
 paginate:            5
 
 # About/contact
