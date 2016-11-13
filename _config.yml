@@ -8,7 +8,7 @@ title:               'Carl V. Lewis'
 tagline:             'Data Visualization, Journalism, Digital Humanities'
 description:         'Thoughts on the intersection of HCI, data visualization and digital news ecosystems.'
 url:                 'http://carlvlewis.github.io/'
-baseurl:             'http://carlvlewis.github.io/'
+baseurl:             ''
 paginate:            5
 
 # About/contact
